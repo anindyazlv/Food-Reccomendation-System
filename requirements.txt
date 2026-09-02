@@ -1,0 +1,12 @@
+python-dotenv
+chromadb
+open-clip-torch
+transformers
+accelerate
+bitsandbytes
+pandas
+sentence-transformers
+torch
+Pillow
+matplotlib
+openpyxl
