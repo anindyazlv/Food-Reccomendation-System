@@ -103,19 +103,6 @@ data/
 
 > **Note:** The dataset is a personal dataset collected by the author and is provided in this repository for the purpose of demonstrating the multimodal food recommendation system.
 
-
-## Technologies
-
-- Python
-- PyTorch
-- OpenCLIP
-- Sentence Transformers
-- ChromaDB
-- Pandas
-- Pillow
-- Matplotlib
-- python-dotenv
-
 ## Models
 
 ### Image Embedding
